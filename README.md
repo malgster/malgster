@@ -1,10 +1,9 @@
 <p align=center>
-<img src="https://i.imgur.com/jJtB7Pv.png" alt="drawing" style="width:40%"/>
+<img src="https://i.imgur.com/KG8sgb6.jpg" alt="drawing" style="width:50%"/>
 </p>
 
-<p align=center>
-<font size="7"> Hi there !</font>
-</p>
+
+# Hi there !
 
 ## 🧝‍♀️​ About me
 
