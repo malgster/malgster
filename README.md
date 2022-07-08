@@ -3,17 +3,17 @@
 </p>
 
 
-# Hi there !
+# **Hi there !**
 
-## 🧝‍♀️​ About me
+### 🧝‍♀️​ ***About me***
 
-My name is Malak, Computer Science student at University of Lille, Third Semester. My style of programming are OOP and functional. There is multiple things i want to learn (more) about, predominately Databases and Computer Architecture. 
+My name is Malak, Computer Science student at University of Lille, Third Semester. My programming styles are OOP and functional. There are multiple things i want to learn (more) about, but i'm mostly interessted by Databases and Computer Architecture. 
 
 
-## 💻 ***Languages*** :
+### 💻 ***Languages*** :
 ![](https://i.imgur.com/7JS0Gwy.png) ![](https://i.imgur.com/hLMO5Jw.png) ![](https://i.imgur.com/qgj4tK1.png) ![](https://i.imgur.com/2BEol4m.png) ![](https://i.imgur.com/VnNDC0p.png) 
 
-## 🔧 ***Tools***
+### 🔧 ***Tools***
 
 ![](https://i.imgur.com/HtNhi2e.png)![](https://i.imgur.com/bPbkjcH.png)![](https://i.imgur.com/jlSCYiM.png)
 
