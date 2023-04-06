@@ -7,7 +7,7 @@
 
 ### 🧝‍♀️​ ***About me***
 
-My name is Malak, Computer Science student at University of Lille, Third Semester. My programming styles are OOP and imperative. There are multiple things I want to learn (more) about, but I'm mostly interested by Databases and Computer Architecture. I'm also a literature enthusiast and i appreciate a good turn of phrase, especially when I'm the one who writes it.
+My name is Malak, Computer Science student at University of Lille, Third Semester. My programming styles are OOP and imperative. There are multiple things I want to learn (more) about, but I'm mostly interested by Databases and algorithms. I'm also a literature enthusiast and i appreciate a good turn of phrase, especially when I'm the one who writes it.
 
 
 ### 💻 ***Languages*** :
