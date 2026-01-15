@@ -9,7 +9,7 @@
 
 My name is Malak, I'm a Computer Science student, following a master's degree. I'm also currently working as a full-stack Developper. There are multiple things I want to learn (more) about, but I'm mostly interested by Web Developpement. 
 
-Other than that, I'm a literature enthusiast and i appreciate a good turn of phrase, especially when I'm the one who writes it. I'm also an active Go player.
+Other than that, I'm a literature enthusiast and i appreciate a good turn of phrase, especially when I'm the one who writes it. I'm also a Go player, I go to tournaments all over europe and actively train to be the best I can.
 
 
 ### 💻 ***Languages*** :
